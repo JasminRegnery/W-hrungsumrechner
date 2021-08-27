@@ -1,1 +1,1 @@
-# W-hrungsumrechner
+# Waehrungsumrechner
